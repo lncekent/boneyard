@@ -167,7 +167,7 @@
     "@angular/common": "^21.0.0",
     "@angular/compiler": "^21.0.0",
     "@angular/compiler-cli": "^21.0.0",
-    "@angular/core": "^21.0.0",
+    "@angular/core": "^21.2.19",
     "@types/node": "^22.19.15",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
