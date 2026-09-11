@@ -165,7 +165,7 @@
   },
   "devDependencies": {
     "@angular/common": "^21.0.0",
-    "@angular/compiler": "^21.0.0",
+    "@angular/compiler": "^21.2.20",
     "@angular/compiler-cli": "^21.0.0",
     "@angular/core": "^21.0.0",
     "@types/node": "^22.19.15",
